@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="HW" type="ActionScript" />
+      <mapping pattern="Proverka" type="CLASS" />
+      <mapping pattern="Hmm" type="CLASS" />
+      <mapping pattern="Proverka.java" type="CLASS" />
+    </extensionMap>
+  </component>
+</application>
