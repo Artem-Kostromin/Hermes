@@ -5,6 +5,7 @@
       <mapping pattern="Proverka" type="CLASS" />
       <mapping pattern="Hmm" type="CLASS" />
       <mapping pattern="Proverka.java" type="CLASS" />
+      <mapping pattern="data(for repeated)" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="data(for jumping)" type="PLAIN_TEXT" />
     </extensionMap>
